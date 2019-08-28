@@ -56,12 +56,7 @@ public class ScreenshotTest {
 
 		
 	}
-	public static void main()
-	{
-		ScreenshotTest st;
-		st.takeSnapShot(, fileWithPath);
-		
-	}
+	
 
 	
 
